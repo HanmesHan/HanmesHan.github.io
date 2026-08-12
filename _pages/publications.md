@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Papers
+## Papers
 
 ### 2026
 
@@ -24,4 +24,4 @@ L Ma, Y Zhao, W Zhang, Y Feng, S Wen, **S Han**, C Wu, J Ren, J Chen, Y Wu, Z Ba
 
 
 
-# Talks & Articles (Most in Chinese)
+## Talks & Articles (Most in Chinese)
