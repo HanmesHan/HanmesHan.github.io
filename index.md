@@ -5,8 +5,5 @@ title: "Hello, I’m Shichao Han"
 excerpt: "Research, technology, and selected work"
 ---
 
-I am a **PhD student** currently working and learning at **University of Groningen**. My interests are in the area of galaxy formation and evolution, using observations from both ground- and space-based telescopes.
-
-## Recent updates
-
-* **Aug 2026** — This personal website is now live.
+I am a **PhD student** currently working and learning at the Kapteyn Astronomical Institute, University of Groningen. My research focuses on galaxy formation and evolution, in collaboration with Dr. Lingyu Wang and Prof. Scott Trager, using observations from both ground- and space-based telescopes. Before starting my PhD, I obtained my Master’s degree from the Cosmic Dawn Center at the University of Copenhagen, under the supervision of Prof. Johan Fynbo. I received my Bachelor’s degree from Lanzhou University.
+Besides astronomy research, I enjoy photography, climbing, hiking, diving, and badminton. I have lived in three countries and traveled to 31 countries so far.
