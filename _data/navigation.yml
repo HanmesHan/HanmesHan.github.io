@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Research & Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/

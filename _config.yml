@@ -1,0 +1,39 @@
+locale: "en-US"
+title: "Shichao Han | Personal Website"
+name: "Shichao Han"
+description: "Personal website, research, and project portfolio"
+url: "https://HanmesHan.github.io"
+baseurl: ""
+repository: "HanmesHan/HanmesHan.github.io"
+
+# A GitHub Pages-compatible theme; no local build is required for deployment.
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+markdown: kramdown
+permalink: /:categories/:title/
+
+author:
+  name: "Shichao Han"
+  avatar: "/assets/images/profile-placeholder.svg"
+  bio: "Researcher / Developer / Creator"
+  location: "Your City, Country"
+  employer: "Your University or Organization"
+  email: "@example.com"
+  github: "your-github-username"
+  linkedin: "your-linkedin-id"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
