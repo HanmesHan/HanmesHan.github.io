@@ -9,26 +9,8 @@ Use this page for an online CV, or upload a PDF and link to it below.
 
 ## Experience
 
-**Research Assistant** · National Astronomical Observateries
-April 2024 – August 2026
-
-**PhD Student** · University of Groningen
-September 2026 - Current
+**Oct 2000** · I was born into an ordinary middle-class family in Beijing, China.
+**Sep 2026** · I started my PhD at the University of Groningen in the Netherlands.
 
 * Use one or two bullets to describe your responsibilities and results.
 * Prefer clear, measurable outcomes whenever possible.
-
-## Education
-
-**BSc** · Lanzhou University  
-2019 - 2023
-
-**MSc** · University of Copenhagen  
-2023 - 2025
-
-**MSc** · University of Groningen  
-2026 - Current
-
-## Skills
-
-Python · Machine Learning · Data Analysis
