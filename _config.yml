@@ -18,9 +18,9 @@ author:
   bio: "Researcher / Developer / Creator"
   location: "Your City, Country"
   employer: "Your University or Organization"
-  email: "@example.com"
-  github: "your-github-username"
-  linkedin: "your-linkedin-id"
+  email: "shichao.han@rug.nl"
+  github: "HanmesHan"
+  linkedin: "Shichao Han"
 
 plugins:
   - jekyll-include-cache
