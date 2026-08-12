@@ -21,6 +21,7 @@ author:
   email: "shichao.han@rug.nl"
   github: "HanmesHan"
   linkedin: "Shichao Han"
+  orcid: "Shichao Han"
 
 plugins:
   - jekyll-include-cache
