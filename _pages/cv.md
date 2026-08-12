@@ -17,9 +17,15 @@ Month 20XX – Present
 
 ## Education
 
-**Degree** · University Name  
-20XX – 20XX
+**BSc** · Lanzhou University  
+2019 - 2023
+
+**MSc** · University of Copenhagen  
+2023 - 2025
+
+**MSc** · University of Groningen  
+2026 - Current
 
 ## Skills
 
-Python · JavaScript / TypeScript · Machine Learning · Data Analysis · Git / GitHub
+Python · Machine Learning · Data Analysis
