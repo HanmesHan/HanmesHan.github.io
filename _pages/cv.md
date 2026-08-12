@@ -9,8 +9,11 @@ Use this page for an online CV, or upload a PDF and link to it below.
 
 ## Experience
 
-**Job Title** · Company or Organization  
-Month 20XX – Present
+**Research Assistant** · National Astronomical Observateries
+April 2024 – August 2026
+
+**PhD Student** · University of Groningen
+September 2026 - Current
 
 * Use one or two bullets to describe your responsibilities and results.
 * Prefer clear, measurable outcomes whenever possible.
