@@ -11,4 +11,4 @@ My name is Shichao Han (韩世超). I am a **PhD student** currently working and
 
 Besides astronomy research, I enjoy photography, climbing, hiking, diving, and badminton. I have lived in three countries and traveled to 31 countries so far.
 
-<img src="/assets/images/DSC08269.jpg" alt="Shichao Han" width="180">
+<img src="/assets/images/DSC08269.jpg" alt="Shichao Han" width="360">
