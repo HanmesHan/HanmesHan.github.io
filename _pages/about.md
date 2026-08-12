@@ -24,4 +24,12 @@ Write a 100–200 word introduction here: your background, current role, and the
 
 ## Contact
 
-The best way to reach me is at [shichao.han@rug.nl](mailto:shichao.han@rug.nl).
+### Email: 
+[shichao.han@rug.nl](mailto:shichao.han@rug.nl) (Work)
+[hanshichao2000@gmail.com](mailto:hanshichao2000@gmail.com) (Other)
+
+### Location
+Kapteyn Astronomical Institute, University of Groningen
+Landleven 12
+9747 AD Groningen
+The Netherlands
