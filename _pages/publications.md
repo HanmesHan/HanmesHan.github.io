@@ -7,6 +7,9 @@ permalink: /publications/
 
 ### 2026
 
+**Galactic H II Regions in the LAMOST Medium-Resolution Spectroscopic Survey of Nebulae**  
+Y Zhao, W Zhang, L Ma, S Wen, T Jing, C Li, Z Zheng, A Yang, **S Han**, J Ren, J Chen, H Wu, Y Zhao. *The Astronomical Journal*, 2026. [Link](https://iopscience.iop.org/article/10.3847/1538-3881/ae930f/meta)
+
 **Resolving Individual Massive Stars in an M31 Star Cluster Exhibiting Wolf–Rayet Features**  
 Y Zhao, Y Gao, W Zhang, F Cheng, M Yang, S Wen, **S Han**, H Wu. *Universe*, 2026. [Link](https://www.mdpi.com/2218-1997/12/8/228)
 
