@@ -20,10 +20,4 @@ permalink: /research/
 | 2023–2025 | MSc in Astrophysics, Niels Bohr Institute, University of Copenhagen |
 | 2019–2023 | BSc in Nuclear Physics, School of Nuclear Science and Technology, Lanzhou University |
 
-<p>
-  <a class="btn btn--primary"
-     href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Han%2C%20Shichao%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
-     target="_blank" rel="noopener">
-    View my publications on NASA ADS
-  </a>
-</p>
+
