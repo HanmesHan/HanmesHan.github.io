@@ -3,6 +3,14 @@ title: "Publications"
 permalink: /publications/
 ---
 
+<p>
+  <a class="btn btn--primary"
+     href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Han%2C%20Shichao%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+     target="_blank" rel="noopener">
+    View my publications on NASA ADS
+  </a>
+</p>
+
 ## Papers
 
 ### 2026
