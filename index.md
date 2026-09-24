@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: single
 author_profile: true
-title: "Welcome to Shichao's Website!"
+title: "Shichao Han"
 excerpt: "Research, technology, and selected work"
 ---
 
