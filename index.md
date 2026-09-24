@@ -126,9 +126,6 @@ Besides astronomy research, I enjoy photography, climbing, hiking, diving, and b
     fill: am5.color(0x1d4ed8)
   });
 
-  document.getElementById("visited-country-list").textContent =
-    `Visited ${visitedCountries.length} countries: ` +
-    visitedCountries.map(country => country.name).join(", ") + ".";
 </script>
 
 
