@@ -134,11 +134,11 @@ Besides astronomy research, I enjoy photography, climbing, hiking, diving, and b
 ### Email: 
 [shichao.han@astro.rug.nl](mailto:shan@astro.rug.nl) (Work)  
 [shichao.han@rug.nl](mailto:shichao.han@rug.nl) (Work)  
-[hanshichao2000@gmail.com](mailto:hanshichao2000@gmail.com) (Other)
+[hanshichao2000@gmail.com](mailto:hanshichao2000@gmail.com) (Other)  
 
-### Phone:
-+31 649812520
-+86 13716063658
+### Phone: 
++31 649812520  
++86 13716063658   
 
 ### Location
 Kapteyn Astronomical Institute, University of Groningen  
