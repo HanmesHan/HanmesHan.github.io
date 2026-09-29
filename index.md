@@ -132,7 +132,7 @@ Besides astronomy research, I enjoy photography, climbing, hiking, diving, and b
 ## Contact
 
 ### Email: 
-[shichao.han@astro.rug.nl](mailto:shan@astro.rug.nl) (Work)  
+[shan@astro.rug.nl](mailto:shan@astro.rug.nl) (Work)  
 [shichao.han@rug.nl](mailto:shichao.han@rug.nl) (Work)  
 [hanshichao2000@gmail.com](mailto:hanshichao2000@gmail.com) (Other)  
 
